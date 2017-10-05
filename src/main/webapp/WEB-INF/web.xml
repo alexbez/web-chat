@@ -23,9 +23,9 @@
   metadata-complete="true">
 
     <description>
-      Chat websocket example
+      Nordea PaaS in Azure - Chat app example
     </description>
-    <display-name>Chat websocket example</display-name>
+    <display-name>Nordea Chat in Azure</display-name>
 
     <welcome-file-list>
         <welcome-file>index.xhtml</welcome-file>
